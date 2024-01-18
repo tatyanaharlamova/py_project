@@ -4,6 +4,6 @@ def summ_(a, b):
 
 
 def subtraction(d, e):
-    f = d + e
+    f = d - e
     return f
 
