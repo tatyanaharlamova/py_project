@@ -3,3 +3,7 @@ def summ_(a, b):
     return c
 
 
+def subtraction(d, e):
+    f = d + e
+    return f
+
